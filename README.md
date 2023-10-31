@@ -1,4 +1,4 @@
-# ECE1512_2023F_ProjectRepo_BoWen
+# ECE1512_2023F_ProjectA
 
 ## Project A: Knowledge Distillation for Building Lightweight Deep Learning Models in Visual Classification Tasks
 
